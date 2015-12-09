@@ -1,6 +1,4 @@
-<snippet>
-  <content><![CDATA[
-# ${1:HexGame}
+# HexGame
 Il y a deux joueurs, Rouge et Bleu, chacun disposant d’un nombre suffisant de pions
 de sa couleur. Les joueurs placent tour a tour un pion de leur couleur sur la grille,
 dans une case libre. Le but du joueur Rouge est de creer à l’aide des pions rouges un
@@ -36,6 +34,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
